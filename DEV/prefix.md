@@ -6,6 +6,8 @@ apps.mapViewer 地图展示的整体页面，带配置项的构成
 
 
 ##study 学习
+study.core 一些核心的js代码
+study.designPatterns js设计模式的学习
 study.css 个人学习CSS相关的一些信息
 study.javascript 和js开发有关的一些高级技巧
 
