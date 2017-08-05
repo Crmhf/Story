@@ -8,6 +8,7 @@
 ## study 学习
 * study.core 一些核心的js代码
 * study.designPatterns js设计模式的学习
+* study.html5 html5新特性的一些学习
 * study.css 个人学习CSS相关的一些信息
 * study.javascript 和js开发有关的一些高级技巧
 * study.jquery jQuery源码及对应的插件的学习
