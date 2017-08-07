@@ -14,6 +14,7 @@
 * study.jquery jQuery源码及对应的插件的学习
 * study.webgl webgl相关知识的学习
 * study.javascript.dataStructuresAndAlgorithms js的数据结构与算法学习
+* study.webpack 打包及代码组合
 
 ## demo 实践 
 * demo.d3 d3这个展示库相关的例子
