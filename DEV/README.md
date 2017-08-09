@@ -12,6 +12,7 @@
 * study.css 个人学习CSS相关的一些信息
 * study.javascript 和js开发有关的一些高级技巧
 * study.jquery jQuery源码及对应的插件的学习
+* study.nodejs nodejs相关示例的学习
 * study.webgl webgl相关知识的学习
 * study.javascript.dataStructuresAndAlgorithms js的数据结构与算法学习
 * study.webpack 打包及代码组合
