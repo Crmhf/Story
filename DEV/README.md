@@ -24,6 +24,7 @@
 * demo.nodejs 使用 nodejs的一些示例
 * demo.ArcGISforJavaScript 使用ArcGIS for JavaScript的一些示例
 * demo.mxGraph 在使用mxGraph开发webETL前端时留下的demo
+* demo.gis.3d 三维示例
 
 ## tool 工具
 * tool.createPortalVersion 通过批处理的方式来半自动化的方式来创建版本
