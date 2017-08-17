@@ -26,6 +26,7 @@
 * demo.ArcGISforJavaScript 使用ArcGIS for JavaScript的一些示例
 * demo.mxGraph 在使用mxGraph开发webETL前端时留下的demo
 * demo.gis.3d 三维示例
+* demo.geoservices 对GIS服务调用的封装，涵盖了ArcGIS、HighGIS
 
 ## tool 工具
 * tool.createPortalVersion 通过批处理的方式来半自动化的方式来创建版本
@@ -47,4 +48,4 @@
 * mapv 百度的地理信息可视化
 * design-patterns-tutorial 主流JS设计模式的学习
 
-## update:20170729
+## update:20170817
