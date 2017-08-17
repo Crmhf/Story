@@ -17,6 +17,7 @@
 * study.javascript.dataStructuresAndAlgorithms js的数据结构与算法学习
 * study.webpack 打包及代码组合
 * study.python 学习使用的python示例
+* study.test 学习一些自动化测试工具
 
 ## demo 实践 
 * demo.d3 d3这个展示库相关的例子
