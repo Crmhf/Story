@@ -28,19 +28,23 @@
 * demo.mxGraph 在使用mxGraph开发webETL前端时留下的demo
 * demo.gis.3d 三维示例
 * demo.geoservices 对GIS服务调用的封装，涵盖了ArcGIS、HighGIS
+* demo.actionCookies 对比了jQuery和angular中对cookies操作的不同
 
 ## tool 工具
 * tool.createPortalVersion 通过批处理的方式来半自动化的方式来创建版本
-* ShpIntoOracle 将Shp文件批量导入到Oracle中的工具
+* tool.shpIntoOracle 将Shp文件批量导入到Oracle中的工具
+
+## work 工作中的使用的说明
+* work.train 日常的一些培训内容及记录
+* work.templateForWebStorm 在公司和个人使用webstorm中的模板
+* work.EsriWh 之前在ESRI所做的一些Demo
+
+## self 个人的一些资料
+* self.chiyiran 原先本来是想用于和小孩的一些互动的项目
 
 ## 其他
-* actionCookies 对比了jQuery和angular中对cookies操作的不同
-* templateForWebStorm 在公司和个人使用webstorm中的模板
-* Story 详细记录的是本人github上所建立仓库的具体用途
-* train 日常的一些培训内容及记录
-* EsriWh 之前在ESRI所做的一些Demo
-* Chiyiran 原先本来是想用于和小孩的一些互动的项目
-* WebGISApp 过去代码的试验田，在经历过一个仓库太大代码无法下载下来的问题后，痛下决心把其中的代码移出来，放到一些独立的仓库中进行管理
+* other.story 详细记录的是本人github上所建立仓库的具体用途
+* other.webGISApp 过去代码的试验田，在经历过一个仓库太大代码无法下载下来的问题后，痛下决心把其中的代码移出来，放到一些独立的仓库中进行管理
 
 
 ## 分支
@@ -49,4 +53,4 @@
 * mapv 百度的地理信息可视化
 * design-patterns-tutorial 主流JS设计模式的学习
 
-## update:20170817
+## update:20170907
